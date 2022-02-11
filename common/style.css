@@ -98,3 +98,7 @@ p{
 
   background-color: var(--accent-color);
 }
+.phome {
+  text-align: center;
+  color: black;
+}
