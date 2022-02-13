@@ -35,3 +35,7 @@
 .boom {
     background-image: url('./images/boom.png');
 }
+
+a{ 
+    color: red;
+}
