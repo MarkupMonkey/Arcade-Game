@@ -45,3 +45,7 @@ button{
   background-color: var(--accent-color);
   padding: 10px 15px;
 }
+
+a{
+  color: red;
+}

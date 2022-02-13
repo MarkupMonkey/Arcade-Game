@@ -1,5 +1,5 @@
 :root{
-  --bg-color: #3535ec;
+  --bg-color: #000000;
   --accent-color: #f70d68;
 }
 
@@ -97,4 +97,8 @@ p{
   padding: 20px;
 
   background-color: var(--accent-color);
+}
+
+nav {
+  text-align: center;
 }

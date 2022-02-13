@@ -41,3 +41,13 @@
 .tiktac {
     background-image: url('./images/tiktac.png');
 }
+
+nav {
+    text-align: center;
+}
+
+a {
+    text-align: center;
+    border-radius: auto;
+    color: red; 
+}
